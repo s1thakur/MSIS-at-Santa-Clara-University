@@ -2,6 +2,7 @@
 
 
 Claim: MSIS Program at Santa Clara University leads to better learning and earning.
+
 Audience: Prospective Students for MSIS program in Santa Clara University
 
 ![ScreenShot](https://user-images.githubusercontent.com/32226479/32692805-c081a030-c6d3-11e7-9d45-b9c75420a963.png)
